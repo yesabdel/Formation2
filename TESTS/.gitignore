@@ -1,0 +1,7 @@
+#Tout ignorer 
+/*
+# Ne pas ignorer
+!.gitignore
+!README.md
+!logo*
+!/TESTS
